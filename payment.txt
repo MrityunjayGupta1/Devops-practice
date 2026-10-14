@@ -1,0 +1,4 @@
+Payment Feature
+Payment Method: UPI
+Payment Status: Successful
+Transaction ID: 1001
