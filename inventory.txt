@@ -1,0 +1,3 @@
+Inventory Management
+Product: Laptop
+Quantity: 10
